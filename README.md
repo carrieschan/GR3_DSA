@@ -1,8 +1,8 @@
-# STACKS, EXPRESSION PARSING AND QUEUE
-### a presentation by group 3
+# 👋STACKS, EXPRESSION PARSING AND QUEUE👋
+### 🌟a presentation by group 3🌟
 
 
-## STACKS
+## STACKS🌟
 - push
 - pop
 - top
@@ -10,7 +10,7 @@
 - isEmpty
 
 
-## EXPRESSION PARSING
+## EXPRESSION PARSING🌟
  - Associativity
  - Precedence
  - Infix
@@ -19,7 +19,7 @@
  - Converting Infix -> Prefix/Postfix
 
 
-## QUEUE
+## QUEUE🌟
 - enqueue
 - dequeue
 - front
@@ -30,5 +30,5 @@
 ---
 
 if you guys have any questions feel free to contact:
-[Adrian Naoe](https://www.facebook.com/tyla.naoe.24) 
+[Adrian Naoe](https://www.facebook.com/tyla.naoe.24) 🌟
 
