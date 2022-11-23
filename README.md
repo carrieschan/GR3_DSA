@@ -28,7 +28,7 @@
 - isEmpty
 
 ## Here's a simple token for the persons who raised their hands in this online discussion. Thank you BSIT, DICT 2-1 for your participation!
-https://imgur.com/a/uwOY4Kx
+- https://imgur.com/a/uwOY4Kx
 ---
 
 if you guys have any questions feel free to contact:
