@@ -1,2 +1,10 @@
 # GR3_DSA
-Stacks, Expression Parsing, Queue
+A discussion about Stacks, Expression Parsing, Queue
+
+Members:
+Calderon, Pearl
+Dimasacat, Andronicus
+Galope, Jhean
+Go, Christian
+Naoe, Adrian
+Odrunia, Mark
